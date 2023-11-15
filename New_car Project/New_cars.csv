@@ -1,0 +1,683 @@
+Brand,Variants,Model,Transmission,Engine,Seater,Fuel_type,Price
+Tata Nexon,1.2 XE,SUV,Manual,1497,5,Petrol,9.01
+Tata Nexon,1.2 XM,SUV,Manual,1497,5,Petrol,10.06
+Tata Nexon,1.2 XM S,SUV,Manual,1497,5,Petrol,10.72
+Tata Nexon,1.2 XMA,SUV,Automatic,1497,5,Petrol,10.78
+Tata Nexon,1.2 XM Plus S,SUV,Manual,1497,5,Petrol,11.16
+Tata Nexon,1.5 XM Diesel,SUV,Manual,1497,5,Diesel,11.33
+Tata Nexon,1.2 XMA S,SUV,Automatic,1497,5,Petrol,11.84
+Tata Nexon,1.2 XMA Plus S,SUV,Automatic,1497,5,Petrol,12.30
+Tata Nexon,1.2 XZ Plus,SUV,Manual,1497,5,Petrol,12.35
+Tata Nexon,1.2 XZ Plus Dark Edition,SUV,Manual,1497,5,Petrol,12.69
+Tata Nexon,1.5 XM S Diesel,SUV,Manual,1497,5,Diesel,12.74
+Tata Nexon,1.2 XZA Plus,SUV,Automatic,1497,5,Petrol,13.09
+Tata Nexon,1.2 XZ Plus S,SUV,Manual,1497,5,Petrol,13.21
+Tata Nexon,1.2 XZA Plus Dark Edition,SUV,Automatic,1497,5,Petrol,13.43
+Tata Nexon,1.5 XMA S Diesel,SUV,Automatic,1497,5,Diesel,13.49
+Tata Nexon,1.5 XM Plus S,SUV,Manual,1497,5,Diesel,13.49
+Tata Nexon,1.2 XZ Plus Dark Edition S,SUV,Manual,1497,5,Petrol,13.55
+Tata Nexon,1.2 XZ Plus Lux,SUV,Manual,1497,5,Petrol,13.60
+Tata Nexon,1.2 XZA Plus S,SUV,Automatic,1497,5,Petrol,13.94
+Tata Nexon,1.2 XZ Plus Dark Edition Lux,SUV,Manual,1497,5,Petrol,13.94
+Tata Nexon,1.2 XZ Plus Luxs,SUV,Manual,1497,5,Petrol,14.17
+Tata Nexon,1.2 XZ Plus Kaziranga Luxs,SUV,Manual,1497,5,Petrol,14.17
+Tata Nexon,1.5 XMA Plus S,SUV,Automatic,1497,5,Diesel,14.19
+Tata Nexon,1.5 XZ Plus Diesel,SUV,Manual,1497,5,Diesel,14.25
+Tata Nexon,1.2 XZA Plus Dark Edition S,SUV,Automatic,1497,5,Petrol,14.28
+Tata Nexon,1.2 XZA Plus Lux,SUV,Automatic,1497,5,Petrol,14.34
+Tata Nexon,1.2 XZ Plus Dark Edition Luxs,SUV,Manual,1497,5,Petrol,14.40
+Tata Nexon,1.2 XZ Plus Luxs Red Dark,SUV,Manual,1497,5,Petrol,14.46
+Tata Nexon,1.5 XZ Plus Dark Edition Diesel,SUV,Manual,1497,5,Diesel,14.59
+Tata Nexon,1.2 XZA Plus Dark Edition Lux,SUV,Automatic,1497,5,Petrol,14.68
+Tata Nexon,1.2 XZA Plus Luxs,SUV,Automatic,1497,5,Petrol,14.91
+Tata Nexon,1.2 XZA Plus Kaziranga Luxs,SUV,Automatic,1497,5,Petrol,14.91
+Tata Nexon,1.5 XZA Plus Diesel,SUV,Automatic,1497,5,Diesel,15.00
+Tata Nexon,1.5 XZ Plus S Diesel,SUV,Manual,1497,5,Diesel,15.12
+Tata Nexon,1.2 XZA Plus Dark Edition Luxs,SUV,Automatic,1497,5,Petrol,15.14
+Tata Nexon,1.2 XZA Plus Luxs Red Dark,SUV,Automatic,1497,5,Petrol,15.19
+Tata Nexon,1.5 XZA Plus Dark Edition Diesel,SUV,Automatic,1497,5,Diesel,15.35
+Tata Nexon,1.5 XZ Plus Dark Edition S Diesel,SUV,Manual,1497,5,Diesel,15.47
+Tata Nexon,1.5 XZ Plus Lux Diesel,SUV,Manual,1497,5,Diesel,15.52
+Tata Nexon,1.5 XZ Plus Dark Edition Lux Diesel,SUV,Manual,1497,5,Diesel,15.87
+Tata Nexon,1.5 XZ Plus Kaziranga Luxs Diesel,SUV,Manual,1497,5,Diesel,16.10
+Tata Nexon,1.5 XZ Plus Luxs Diesel,SUV,Manual,1497,5,Diesel,16.10
+Tata Nexon,1.5 XZA Plus Lux Diesel,SUV,Automatic,1497,5,Diesel,16.28
+Tata Nexon,1.5 XZ Plus Dark Edition Luxs Diesel,SUV,Manual,1497,5,Diesel,16.34
+Tata Nexon,1.5 XZ Plus Luxs Red Dark,SUV,Manual,1497,5,Diesel,16.39
+Tata Nexon,1.5 XZA Plus Dark Edition Lux Diesel,SUV,Automatic,1497,5,Diesel,16.63
+Tata Nexon,1.5 XZA Plus Luxs Diesel,SUV,Automatic,1497,5,Diesel,16.86
+Tata Nexon,1.5 XZA Plus Kaziranga Luxs Diesel,SUV,Automatic,1497,5,Diesel,16.86
+Tata Nexon,1.5 XZA Plus Dark Edition Luxs Diesel,SUV,Automatic,1497,5,Diesel,17.09
+Tata Nexon,1.5 XZA Plus Luxs Red Dark,SUV,Automatic,1497,5,Diesel,17.15
+Maruti Suzuki Baleno,1.2 Sigma,Hatchback,Manual,1197,5,Petrol,7.42
+Maruti Suzuki Baleno,1.2 Delta,Hatchback,Manual,1197,5,Petrol,8.35
+Maruti Suzuki Baleno,1.2 Delta AMT,Hatchback,Automatic,1197,5,Petrol,8.96
+Maruti Suzuki Baleno,1.2 Delta CNG,Hatchback,Manual,1197,5,CNG,9.43
+Maruti Suzuki Baleno,1.2 Zeta,Hatchback,Manual,1197,5,Petrol,9.45
+Maruti Suzuki Baleno,1.2 Zeta AMT,Hatchback,Automatic,1197,5,Petrol,10.06
+Maruti Suzuki Baleno,1.2 Zeta CNG,Hatchback,Manual,1197,5,CNG,10.44
+Maruti Suzuki Baleno,1.2 Alpha,Hatchback,Manual,1197,5,Petrol,10.50
+Maruti Suzuki Baleno,1.2 Alpha AMT,Hatchback,Automatic,1197,5,Petrol,11.11
+Tata Punch,Pure,SUV,Manual,1199,5,Petrol,6.60
+Tata Punch,Pure Rhythm,SUV,Manual,1199,5,Petrol,7.16
+Tata Punch,Adventure,SUV,Manual,1199,5,Petrol,7.76
+Tata Punch,Adventure CAMO,SUV,Manual,1199,5,Petrol,7.87
+Tata Punch,Pure CNG,SUV,Manual,1199,5,CNG,8.03
+Tata Punch,Adventure Rhythm,SUV,Manual,1199,5,Petrol,8.15
+Tata Punch,Adventure Rhythm CAMO,SUV,Manual,1199,5,Petrol,8.26
+Tata Punch,Adventure AMT,SUV,Automatic,1199,5,Petrol,8.42
+Tata Punch,Adventure AMT CAMO,SUV,Automatic,1199,5,Petrol,8.53
+Tata Punch,Accomplished,SUV,Manual,1199,5,Petrol,8.69
+Tata Punch,Accomplished CAMO,SUV,Manual,1199,5,Petrol,8.75
+Tata Punch,Adventure Rhythm AMT,SUV,Automatic,1199,5,Petrol,8.80
+Tata Punch,Adventure CNG,SUV,Manual,1199,5,CNG,8.86
+Tata Punch,Adventure Rhythm AMT CAMO,SUV,Automatic,1199,5,Petrol,8.91
+Tata Punch,Accomplished Dazzle,SUV,Manual,1199,5,Petrol,9.13
+Tata Punch,Accomplished Dazzle CAMO,SUV,Manual,1199,5,Petrol,9.16
+Tata Punch,Accomplished S,SUV,Manual,1199,5,Petrol,9.24
+Tata Punch,Adventure Rhythm CNG,SUV,Manual,1199,5,CNG,9.24
+Tata Punch,Accomplished AMT,SUV,Automatic,1199,5,Petrol,9.35
+Tata Punch,Accomplished AMT CAMO,SUV,Automatic,1199,5,Petrol,9.41
+Tata Punch,Creative,SUV,Manual,1199,5,Petrol,9.54
+Tata Punch,Accomplished Dazzle S,SUV,Manual,1199,5,Petrol,9.68
+Tata Punch,Accomplished Dazzle AMT,SUV,Automatic,1199,5,Petrol,9.79
+Tata Punch,Accomplished Dazzle AMT CAMO,SUV,Automatic,1199,5,Petrol,9.82
+Tata Punch,Accomplished S AMT,SUV,Automatic,1199,5,Petrol,9.90
+Tata Punch,Accomplished CNG,SUV,Manual,1199,5,CNG,9.96
+Tata Punch,Creative iRA,SUV,Manual,1199,5,Petrol,9.98
+Tata Punch,Creative S,SUV,Manual,1199,5,Petrol,10.28
+Tata Punch,Accomplished Dazzle S AMT,SUV,Automatic,1199,5,Petrol,10.34
+Tata Punch,Creative AMT,SUV,Automatic,1199,5,Petrol,10.45
+Tata Punch,Creative Flagship,SUV,Manual,1199,5,Petrol,10.61
+Tata Punch,Creative iRA AMT,SUV,Automatic,1199,5,Petrol,10.63
+Tata Punch,Accomplished Dazzle S CNG,SUV,Manual,1199,5,CNG,10.87
+Tata Punch,Creative S AMT,SUV,Automatic,1199,5,Petrol,10.94
+Tata Punch,Creative Flagship AMT,SUV,Automatic,1199,5,Petrol,11.67
+Hyundai Grand i10 Nios,1.2 Era,Hatchback,Manual,1197,5,Petrol,6.11
+Hyundai Grand i10 Nios,1.2 Magna,Hatchback,Manual,1197,5,Petrol,7.27
+Hyundai Grand i10 Nios,1.2 Sportz Executive,Hatchback,Manual,1197,5,Petrol,7.89
+Hyundai Grand i10 Nios,1.2 Sportz,Hatchback,Manual,1197,5,Petrol,7.93
+Hyundai Grand i10 Nios,1.2 Magna AMT,Hatchback,Automatic,1197,5,Petrol,8.29
+Hyundai Grand i10 Nios,1.2 Magna CNG,Hatchback,Manual,1197,5,CNG,8.33
+Hyundai Grand i10 Nios,1.2 Asta,Hatchback,Manual,1197,5,Petrol,8.73
+Hyundai Grand i10 Nios,1.2 Sportz Executive AMT,Hatchback,Automatic,1197,5,Petrol,8.82
+Hyundai Grand i10 Nios,1.2 Sportz AMT,Hatchback,Automatic,1197,5,Petrol,8.86
+Hyundai Grand i10 Nios,1.2 Sportz CNG,Hatchback,Manual,1197,5,CNG,8.94
+Hyundai Grand i10 Nios,1.2 Asta AMT,Hatchback,Automatic,1197,5,Petrol,9.66
+Hyundai Aura,1.2 E,Sedan,Manual,1197,5,Petrol,7.14
+Hyundai Aura,1.2 S,Sedan,Manual,1197,5,Petrol,8.08
+Hyundai Aura,1.2 SX,Sedan,Manual,1197,5,Petrol,8.94
+Hyundai Aura,1.2 S CNG,Sedan,Manual,1197,5,CNG,9.04
+Hyundai Aura,1.2 SX(O),Sedan,Manual,1197,5,Petrol,9.67
+Hyundai Aura,1.2 SX Plus AMT,Sedan,Automatic,1197,5,Petrol,9.83
+Hyundai Aura,1.2 SX CNG,Sedan,Manual,1197,5,CNG,9.89
+Maruti Suzuki Wagon R,1.0 LXi,Hatchback,Manual,998,5,Petrol,5.92
+Maruti Suzuki Wagon R,1.0 VXi,Hatchback,Manual,998,5,Petrol,6.40
+Maruti Suzuki Wagon R,1.2 ZXi,Hatchback,Manual,998,5,Petrol,6.95
+Maruti Suzuki Wagon R,1.0 LXi CNG,Hatchback,Manual,998,5,CNG,7.03
+Maruti Suzuki Wagon R,1.0 VXi AMT,Hatchback,Automatic,998,5,Petrol,7.29
+Maruti Suzuki Wagon R,1.2 ZXI Plus,Hatchback,Manual,998,5,Petrol,7.47
+Maruti Suzuki Wagon R,1.0 VXI CNG,Hatchback,Manual,998,5,CNG,7.52
+Maruti Suzuki Wagon R,1.2 ZXi AMT,Hatchback,Automatic,998,5,Petrol,7.64
+Maruti Suzuki Wagon R,1.2 ZXI Plus AMT,Hatchback,Automatic,998,5,Petrol,8.16
+Hyundai New i20,1.2 Magna Kappa,Hatchback,Manual,1197,5,Petrol,8.39
+Hyundai New i20,1.2 Sportz Kappa,Hatchback,Manual,1197,5,Petrol,8.97
+Hyundai New i20,1.2 Asta Kappa,Hatchback,Manual,1197,5,Petrol,10.14
+Hyundai New i20,1.2 Sportz Kappa IVT,Hatchback,Automatic,1197,5,Petrol,10.27
+Hyundai New i20,1.2 Asta(O) Kappa,Hatchback,Manual,1197,5,Petrol,10.96
+Hyundai New i20,1.0 Sportz Turbo GDI DCT,Hatchback,Automatic,1197,5,Petrol,11.53
+Hyundai New i20,1.0 Asta Turbo GDI iMT,Hatchback,Manual,1197,5,Petrol,11.70
+Hyundai New i20,1.2 Asta(O) Kappa IVT,Hatchback,Automatic,1197,5,Petrol,12.54
+Hyundai New i20,1.0 Asta(O) Turbo GDI DCT,Hatchback,Automatic,1197,5,Petrol,13.33
+Maruti Suzuki Swift,LXi,Hatchback,Manual,1197,5,Petrol,6.45
+Maruti Suzuki Swift,VXi,Hatchback,Manual,1197,5,Petrol,7.68
+Maruti Suzuki Swift,VXi AMT,Hatchback,Automatic,1197,5,Petrol,8.29
+Maruti Suzuki Swift,ZXi,Hatchback,Manual,1197,5,Petrol,8.43
+Maruti Suzuki Swift,VXi CNG,Hatchback,Manual,1197,5,CNG,8.68
+Maruti Suzuki Swift,ZXi AMT,Hatchback,Automatic,1197,5,Petrol,9.03
+Maruti Suzuki Swift,ZXi Plus,Hatchback,Manual,1197,5,Petrol,9.36
+Maruti Suzuki Swift,ZXi CNG,Hatchback,Manual,1197,5,CNG,9.43
+Maruti Suzuki Swift,ZXi Plus AMT,Hatchback,Automatic,1197,5,Petrol,9.82
+Tata Tigor,XE,Sedan,Manual,1199,5,Petrol,6.94
+Tata Tigor,XM,Sedan,Manual,1199,5,Petrol,7.55
+Tata Tigor,XZ,Sedan,Manual,1199,5,Petrol,7.99
+Tata Tigor,XMA,Sedan,Automatic,1199,5,Petrol,8.21
+Tata Tigor,XM CNG,Sedan,Manual,1199,5,CNG,8.55
+Tata Tigor,XZ Plus,Sedan,Manual,1199,5,Petrol,8.70
+Tata Tigor,XM Twin-Cylinder CNG,Sedan,Manual,1199,5,CNG,8.80
+Tata Tigor,XZ Plus Leatherette Pack,Sedan,Manual,1199,5,Petrol,8.81
+Tata Tigor,XZ CNG,Sedan,Manual,1199,5,CNG,8.99
+Tata Tigor,XZ Twin-Cylinder CNG,Sedan,Manual,1199,5,CNG,9.24
+Tata Tigor,XZA Plus,Sedan,Automatic,1199,5,Petrol,9.36
+Tata Tigor,XZA Plus Leatherette Pack,Sedan,Automatic,1199,5,Petrol,9.47
+Tata Tigor,XZ Plus CNG,Sedan,Manual,1199,5,CNG,9.70
+Tata Tigor,XZ Plus CNG Leatherette Pack,Sedan,Manual,1199,5,CNG,9.81
+Tata Tigor,XZ Plus Twin-Cylinder CNG,Sedan,Manual,1199,5,CNG,9.96
+Tata Tigor,XZ Plus Leatherette Pack Twin-Cylinder CNG,Sedan,Manual,1199,5,CNG,10.07
+Tata Altroz,1.2 XE,Hatchback,Manual,1199,5,Petrol,7.37
+Tata Altroz,1.2 XE Plus,Hatchback,Manual,1199,5,Petrol,7.54
+Tata Altroz,1.2 XM S,Hatchback,Manual,1199,5,Petrol,8.20
+Tata Altroz,1.2 XM Plus,Hatchback,Manual,1199,5,Petrol,8.42
+Tata Altroz,1.2 XE CNG,Hatchback,Manual,1199,5,CNG,8.59
+Tata Altroz,1.2 XM Plus S,Hatchback,Manual,1199,5,Petrol,8.91
+Tata Altroz,1.2 XT,Hatchback,Manual,1199,5,Petrol,9.00
+Tata Altroz,1.5 XE Plus,Hatchback,Manual,1199,5,Diesel,9.17
+Tata Altroz,1.2 XT Dark Edition,Hatchback,Manual,1199,5,Petrol,9.25
+Tata Altroz,1.2 XZ,Hatchback,Manual,1199,5,Petrol,9.41
+Tata Altroz,1.2 XM Plus CNG,Hatchback,Manual,1199,5,CNG,9.46
+Tata Altroz,1.2 XMA Plus,Hatchback,Automatic,1199,5,Petrol,9.47
+Tata Altroz,1.5 XM Plus,Hatchback,Manual,1199,5,Diesel,9.90
+Tata Altroz,1.2 XZ Plus,Hatchback,Manual,1199,5,Petrol,9.95
+Tata Altroz,1.2 XMA Plus S,Hatchback,Automatic,1199,5,Petrol,9.96
+Tata Altroz,1.2 XM Plus S CNG,Hatchback,Manual,1199,5,CNG,10.00
+Tata Altroz,1.2 XZ (O) i-Turbo,Hatchback,Manual,1199,5,Petrol,10.00
+Tata Altroz,1.2 XZ Plus S,Hatchback,Manual,1199,5,Petrol,10.01
+Tata Altroz,1.2 XTA,Hatchback,Automatic,1199,5,Petrol,10.07
+Tata Altroz,1.2 XZ i-Turbo,Hatchback,Manual,1199,5,Petrol,10.07
+Tata Altroz,1.2 XZ Plus Dark Edition,Hatchback,Manual,1199,5,Petrol,10.17
+Tata Altroz,1.5 XM Plus S,Hatchback,Manual,1199,5,Diesel,10.40
+Tata Altroz,1.2 XZ Plus S Dark Edition,Hatchback,Manual,1199,5,Petrol,10.45
+Tata Altroz,1.5 XT,Hatchback,Manual,1199,5,Diesel,10.51
+Tata Altroz,1.2 XZ Plus (O) S,Hatchback,Manual,1199,5,Petrol,10.58
+Tata Altroz,1.2 XZA,Hatchback,Automatic,1199,5,Petrol,10.62
+Tata Altroz,1.2 XZ Plus S i-Turbo,Hatchback,Manual,1199,5,Petrol,10.67
+Tata Altroz,1.2 XZ CNG,Hatchback,Manual,1199,5,CNG,10.74
+Tata Altroz,1.2 XZ Plus i-Turbo Dark Editon,Hatchback,Manual,1199,5,Petrol,10.83
+Tata Altroz,1.2 XZA Plus,Hatchback,Automatic,1199,5,Petrol,11.05
+Tata Altroz,1.2 XZA Plus Dark Edtion,Hatchback,Automatic,1199,5,Petrol,11.05
+Tata Altroz,1.2 XZA Plus S,Hatchback,Automatic,1199,5,Petrol,11.07
+Tata Altroz,1.2 XZ Plus S i-Turbo Dark Edition,Hatchback,Manual,1199,5,Petrol,11.07
+Tata Altroz,1.5 XZ,Hatchback,Manual,1199,5,Diesel,11.07
+Tata Altroz,1.2 XZ Plus S CNG,Hatchback,Manual,1199,5,CNG,11.26
+Tata Altroz,1.2 XZA Plus S Dark Edition,Hatchback,Automatic,1199,5,Petrol,11.74
+Tata Altroz,1.2 XZA Plus (O) S,Hatchback,Automatic,1199,5,Petrol,12.10
+Tata Altroz,1.5 XZ Plus,Hatchback,Manual,1199,5,Diesel,12.11
+Tata Altroz,1.5 XZ Plus S,Hatchback,Manual,1199,5,Diesel,12.17
+Tata Altroz,1.2 XZ Plus (O) S CNG,Hatchback,Manual,1199,5,CNG,12.27
+Tata Altroz,1.5 XZ Plus Dark Edition,Hatchback,Manual,1199,5,Diesel,12.28
+Tata Altroz,1.5 XZ Plus S Dark Edition,Hatchback,Manual,1199,5,Diesel,12.58
+Tata Tiago,XE,Hatchback,Manual,1199,5,Petrol,6.00
+Tata Tiago,XT(O),Hatchback,Manual,1199,5,Petrol,6.43
+Tata Tiago,XT,Hatchback,Manual,1199,5,Petrol,7.05
+Tata Tiago,XE CNG,Hatchback,Manual,1199,5,CNG,7.17
+Tata Tiago,XT Rhythm,Hatchback,Manual,1199,5,Petrol,7.38
+Tata Tiago,XE Twin-Cylinder CNG,Hatchback,Manual,1199,5,CNG,7.42
+Tata Tiago,XM CNG,Hatchback,Manual,1199,5,CNG,7.55
+Tata Tiago,XTA,Hatchback,Automatic,1199,5,Petrol,7.71
+Tata Tiago,XM Twin-Cylinder CNG,Hatchback,Manual,1199,5,CNG,7.81
+Tata Tiago,XZ Plus,Hatchback,Manual,1199,5,Petrol,7.88
+Tata Tiago,XT CNG,Hatchback,Manual,1199,5,CNG,8.05
+Tata Tiago,XT Twin-Cylinder CNG,Hatchback,Manual,1199,5,CNG,8.30
+Tata Tiago,XZA Plus,Hatchback,Automatic,1199,5,Petrol,8.53
+Tata Tiago,XZ Plus CNG,Hatchback,Manual,1199,5,CNG,8.88
+Tata Tiago,XZ Plus Twin-Cylinder CNG,Hatchback,Manual,1199,5,CNG,9.13
+Hyundai Venue,1.2 E,SUV,Manual,998,5,Petrol,8.78
+Hyundai Venue,1.2 S,SUV,Manual,998,5,Petrol,10.13
+Hyundai Venue,1.2 S(O),SUV,Manual,998,5,Petrol,11.05
+Hyundai Venue,1.0 S(O) iMT,SUV,Manual,998,5,Petrol,12.15
+Hyundai Venue,1.5 S Plus,SUV,Manual,998,5,Diesel,12.50
+Hyundai Venue,1.2 SX,SUV,Manual,998,5,Petrol,12.78
+Hyundai Venue,1.0 S(O) DCT,SUV,Automatic,998,5,Petrol,13.29
+Hyundai Venue,1.0 SX(O) iMT,SUV,Manual,998,5,Petrol,14.35
+Hyundai Venue,1.5 SX,SUV,Manual,998,5,Diesel,14.54
+Hyundai Venue,1.0 SX(O) DCT,SUV,Automatic,998,5,Petrol,15.13
+Hyundai Venue,1.5 SX(O),SUV,Manual,998,5,Diesel,15.47
+Hyundai Creta,1.5 E Petrol,SUV,Manual,1493,5,Petrol,12.70
+Hyundai Creta,1.5 EX Petrol,SUV,Manual,1493,5,Petrol,13.78
+Hyundai Creta,1.5 E Diesel,SUV,Manual,1493,5,Diesel,14.25
+Hyundai Creta,1.5 S Petrol,SUV,Manual,1493,5,Petrol,15.21
+Hyundai Creta,1.5 EX Diesel,SUV,Manual,1493,5,Diesel,15.75
+Hyundai Creta,1.5 S Plus Petrol Knight,SUV,Manual,1493,5,Petrol,16.25
+Hyundai Creta,1.5 SX Petrol,SUV,Manual,1493,5,Petrol,17.22
+Hyundai Creta,1.5 S Diesel,SUV,Manual,1493,5,Diesel,17.25
+Hyundai Creta,1.5 S Plus Diesel Knight,SUV,Manual,1493,5,Diesel,18.37
+Hyundai Creta,1.5 SX IVT Petrol,SUV,Automatic,1493,5,Petrol,18.96
+Hyundai Creta,1.5 SX Diesel,SUV,Manual,1493,5,Diesel,19.36
+Hyundai Creta,1.5 SX(O) IVT Petrol,SUV,Automatic,1493,5,Petrol,20.35
+Hyundai Creta,1.5 SX(O) IVT Petrol Knight,SUV,Automatic,1493,5,Petrol,20.54
+Hyundai Creta,1.5 SX(O) Diesel,SUV,Manual,1493,5,Diesel,20.86
+Hyundai Creta,1.5 SX(O) AT Diesel,SUV,Automatic,1493,5,Diesel,22.51
+Hyundai Creta,1.5 SX(O) AT Diesel Knight,SUV,Automatic,1493,5,Diesel,22.74
+Maruti Suzuki Celerio,LXi,Hatchback,Manual,998,5,Petrol,5.68
+Maruti Suzuki Celerio,VXi,Hatchback,Manual,998,5,Petrol,6.13
+Maruti Suzuki Celerio,ZXi,Hatchback,Manual,998,5,Petrol,6.61
+Maruti Suzuki Celerio,VXi AMT,Hatchback,Automatic,998,5,Petrol,6.98
+Maruti Suzuki Celerio,ZXi Plus,Hatchback,Manual,998,5,Petrol,7.14
+Maruti Suzuki Celerio,ZXi AMT,Hatchback,Automatic,998,5,Petrol,7.28
+Maruti Suzuki Celerio,VXi CNG,Hatchback,Manual,998,5,CNG,7.31
+Maruti Suzuki Celerio,ZXi Plus AMT,Hatchback,Automatic,998,5,Petrol,7.81
+Hyundai Alcazar,1.5 Prestige Turbo 7 STR Petrol,SUV,Manual,1482,5,Petrol,19.48
+Hyundai Alcazar,1.5 Prestige 7 STR Diesel,SUV,Manual,1482,5,Diesel,21.02
+Hyundai Alcazar,1.5 Platinum Turbo 7 STR Petrol,SUV,Manual,1482,5,Petrol,21.66
+Hyundai Alcazar,1.5 Prestige(O) AT 7 STR Diesel,SUV,Automatic,1482,5,Diesel,22.74
+Hyundai Alcazar,1.5 Platinum(O) DCT 6 STR Petrol,SUV,Automatic,1482,5,Petrol,23.16
+Hyundai Alcazar,1.5 Platinum(O) DCT 7 STR Petrol,SUV,Automatic,1482,5,Petrol,23.16
+Hyundai Alcazar,1.5 Platinum 7 STR Diesel,SUV,Manual,1482,5,Diesel,23.26
+Hyundai Alcazar,1.5 Signature(O) DCT 6 STR Petrol,SUV,Automatic,1482,5,Petrol,23.50
+Hyundai Alcazar,1.5 Signature(O) DCT 7 STR Petrol,SUV,Automatic,1482,5,Petrol,23.50
+Hyundai Alcazar,1.5 Signature 6 STR Diesel,SUV,Manual,1482,5,Diesel,23.83
+Hyundai Alcazar,1.5 Platinum(O) AT 6 STR Diesel,SUV,Automatic,1482,5,Diesel,24.57
+Hyundai Alcazar,1.5 Platinum(O) AT 7 STR Diesel,SUV,Automatic,1482,5,Diesel,24.57
+Hyundai Alcazar,1.5 Signature(O) AT 6 STR Diesel,SUV,Automatic,1482,5,Diesel,24.71
+Hyundai Alcazar,1.5 Signature(O) AT 7 STR Diesel,SUV,Automatic,1482,5,Diesel,24.71
+Hyundai i20 N Line,1.0 N6 iMT,Hatchback,Manual,998,5,Petrol,11.86
+Hyundai i20 N Line,1.0 N8 iMT,Hatchback,Manual,998,5,Petrol,13.04
+Hyundai i20 N Line,1.0 N8 DCT,Hatchback,Automatic,998,5,Petrol,13.83
+Maruti Suzuki Dzire,LXi,Sedan,Manual,1197,5,Petrol,7.35
+Maruti Suzuki Dzire,VXi,Sedan,Manual,1197,5,Petrol,8.37
+Maruti Suzuki Dzire,VXi AMT,Sedan,Automatic,1197,5,Petrol,8.97
+Maruti Suzuki Dzire,ZXi,Sedan,Manual,1197,5,Petrol,9.11
+Maruti Suzuki Dzire,VXi CNG,Sedan,Manual,1197,5,CNG,9.42
+Maruti Suzuki Dzire,ZXi AMT,Sedan,Automatic,1197,5,Petrol,9.72
+Maruti Suzuki Dzire,ZXi Plus,Sedan,Manual,1197,5,Petrol,9.90
+Maruti Suzuki Dzire,ZXi CNG,Sedan,Manual,1197,5,CNG,10.16
+Maruti Suzuki Dzire,ZXi Plus AMT,Sedan,Automatic,1197,5,Petrol,10.50
+Maruti Suzuki S-Presso,1.0 LXi,SUV,Manual,998,5,Petrol,5.30
+Maruti Suzuki S-Presso,1.0 VXi,SUV,Manual,998,5,Petrol,5.47
+Maruti Suzuki S-Presso,1.0 VXi Plus,SUV,Manual,998,5,Petrol,5.78
+Maruti Suzuki S-Presso,1.0 VXi(O) AMT,SUV,Automatic,998,5,Petrol,6.12
+Maruti Suzuki S-Presso,1.0 LXi CNG,SUV,Manual,998,5,CNG,6.23
+Maruti Suzuki S-Presso,1.0 VXi(O) Plus AMT,SUV,Automatic,998,5,Petrol,6.61
+Maruti Suzuki S-Presso,1.0 VXi CNG,SUV,Manual,998,5,CNG,6.63
+Nissan Magnite,XE,SUV,Manual,999,5,Petrol,6.71
+Nissan Magnite,XL,SUV,Manual,999,5,Petrol,7.84
+Nissan Magnite,XV Executive,SUV,Manual,999,5,Petrol,8.18
+Nissan Magnite,XV,SUV,Manual,999,5,Petrol,8.80
+Nissan Magnite,XV Red Edition,SUV,Manual,999,5,Petrol,8.97
+Nissan Magnite,XL Turbo,SUV,Manual,999,5,Petrol,9.27
+Nissan Magnite,XV Premium,SUV,Manual,999,5,Petrol,9.66
+Nissan Magnite,XV Turbo,SUV,Manual,999,5,Petrol,10.33
+Nissan Magnite,XV Turbo Red Edition,SUV,Manual,999,5,Petrol,10.51
+Nissan Magnite,XV Premium Turbo,SUV,Manual,999,5,Petrol,10.92
+Nissan Magnite,XV Turbo CVT,SUV,Automatic,999,5,Petrol,11.23
+Nissan Magnite,XV Turbo CVT Red Edition,SUV,Automatic,999,5,Petrol,11.75
+Nissan Magnite,XV Premium Turbo CVT,SUV,Automatic,999,5,Petrol,12.39
+Maruti Suzuki Brezza,VXi,SUV,Manual,1462,5,Petrol,11.01
+Maruti Suzuki Brezza,VXi CNG,SUV,Manual,1462,5,CNG,12.50
+Maruti Suzuki Brezza,ZXi,SUV,Manual,1462,5,Petrol,13.03
+Maruti Suzuki Brezza,VXi AT,SUV,Automatic,1462,5,Petrol,13.14
+Maruti Suzuki Brezza,ZXi CNG,SUV,Manual,1462,5,CNG,14.09
+Maruti Suzuki Brezza,ZXi Plus,SUV,Manual,1462,5,Petrol,14.69
+Maruti Suzuki Brezza,ZXi AT,SUV,Automatic,1462,5,Petrol,14.77
+Maruti Suzuki Brezza,ZXi Plus AT,SUV,Automatic,1462,5,Petrol,16.43
+Maruti Suzuki Brezza,VXi,SUV,Manual,1462,5,Petrol,11.01
+Maruti Suzuki Brezza,VXi CNG,SUV,Manual,1462,5,CNG,12.50
+Maruti Suzuki Brezza,ZXi,SUV,Manual,1462,5,Petrol,13.03
+Maruti Suzuki Brezza,VXi AT,SUV,Automatic,1462,5,Petrol,13.14
+Maruti Suzuki Brezza,ZXi CNG,SUV,Manual,1462,5,CNG,14.09
+Maruti Suzuki Brezza,ZXi Plus,SUV,Manual,1462,5,Petrol,14.69
+Maruti Suzuki Brezza,ZXi AT,SUV,Automatic,1462,5,Petrol,14.77
+Maruti Suzuki Brezza,ZXi Plus AT,SUV,Automatic,1462,5,Petrol,16.43
+Skoda Kodiaq,Style,SUV,Automatic,1984,5,Petrol,44.47
+Skoda Kodiaq,Sportline,SUV,Automatic,1984,5,Petrol,46.10
+Skoda Kodiaq,L&K,SUV,Automatic,1984,5,Petrol,48.36
+Honda Amaze,1.2 E MT Petrol,Sedan,Manual,1199,5,Petrol,7.95
+Honda Amaze,1.2 S MT Petrol,Sedan,Manual,1199,5,Petrol,8.71
+Honda Amaze,1.2 S CVT Petrol,Sedan,Automatic,1199,5,Petrol,9.69
+Honda Amaze,1.2 VX MT Petrol,Sedan,Manual,1199,5,Petrol,9.90
+Honda Amaze,1.2 VX CVT Petrol,Sedan,Automatic,1199,5,Petrol,10.80
+Honda City,1.5 SV,Sedan,Manual,1498,5,Petrol,13.36
+Honda City,1.5 V,Sedan,Manual,1498,5,Petrol,14.36
+Honda City,1.5 VX,Sedan,Manual,1498,5,Petrol,15.64
+Honda City,1.5 V CVT,Sedan,Automatic,1498,5,Petrol,15.67
+Honda City,1.5 ZX,Sedan,Manual,1498,5,Petrol,17.04
+Honda City,1.5 VX CVT,Sedan,Automatic,1498,5,Petrol,17.06
+Honda City,1.5 ZX CVT,Sedan,Automatic,1498,5,Petrol,18.46
+Maruti Suzuki XL6,Zeta,SUV,Manual,1462,5,Petrol,13.34
+Maruti Suzuki XL6,Zeta CNG,SUV,Manual,1462,5,CNG,14.43
+Maruti Suzuki XL6,Alpha,SUV,Manual,1462,5,Petrol,14.47
+Maruti Suzuki XL6,Zeta AT,SUV,Automatic,1462,5,Petrol,15.04
+Maruti Suzuki XL6,Alpha Plus,SUV,Manual,1462,5,Petrol,15.15
+Maruti Suzuki XL6,Alpha AT,SUV,Automatic,1462,5,Petrol,16.18
+Maruti Suzuki XL6,Alpha Plus AT,SUV,Automatic,1462,5,Petrol,16.86
+Maruti Suzuki Ertiga,LXi(O),SUV,Manual,1462,5,Petrol,9.85
+Maruti Suzuki Ertiga,VXi(O),SUV,Manual,1462,5,Petrol,11.13
+Maruti Suzuki Ertiga,VXi(O) CNG,SUV,Manual,1462,5,CNG,12.63
+Maruti Suzuki Ertiga,ZXi(O),SUV,Manual,1462,5,Petrol,12.79
+Maruti Suzuki Ertiga,VXi AT,SUV,Automatic,1462,5,Petrol,13.25
+Maruti Suzuki Ertiga,ZXi Plus,SUV,Manual,1462,5,Petrol,13.60
+Maruti Suzuki Ertiga,ZXi(O) CNG,SUV,Manual,1462,5,CNG,13.90
+Maruti Suzuki Ertiga,ZXi AT,SUV,Automatic,1462,5,Petrol,14.52
+Maruti Suzuki Ertiga,ZXi Plus AT,SUV,Automatic,1462,5,Petrol,15.33
+Maruti Suzuki Ciaz,1.5 Sigma MT,Sedan,Manual,1462,5,Petrol,10.39
+Maruti Suzuki Ciaz,1.5 Delta MT,Sedan,Manual,1462,5,Petrol,11.07
+Maruti Suzuki Ciaz,1.5 Zeta MT,Sedan,Manual,1462,5,Petrol,11.90
+Maruti Suzuki Ciaz,1.5 Delta AT,Sedan,Automatic,1462,5,Petrol,12.81
+Maruti Suzuki Ciaz,1.5 Alpha MT,Sedan,Manual,1462,5,Petrol,12.82
+Maruti Suzuki Ciaz,1.5 Zeta AT,Sedan,Automatic,1462,5,Petrol,13.26
+Maruti Suzuki Ciaz,1.5 Alpha AT,Sedan,Automatic,1462,5,Petrol,14.16
+Tata Nexon EV Prime,XM,SUV,Automatic,30200,5,Electric,15.24
+Tata Nexon EV Prime,XZ Plus,SUV,Automatic,30200,5,Electric,16.80
+Tata Nexon EV Prime,XZ Plus Dark Edition,SUV,Automatic,30200,5,Electric,17.00
+Tata Nexon EV Prime,XZ Plus LUX,SUV,Automatic,30200,5,Electric,17.83
+Tata Nexon EV Prime,XZ Plus LUX Dark Edition,SUV,Automatic,30200,5,Electric,18.03
+Tata Tiago NRG,1.2 XT,Hatchback,Manual,1199,5,Petrol,7.38
+Tata Tiago NRG,1.2 Petrol,Hatchback,Manual,1199,5,Petrol,7.88
+Tata Tiago NRG,1.2 XT CNG,Hatchback,Manual,1199,5,CNG,8.38
+Tata Tiago NRG,1.2 AMT Petrol,Hatchback,Automatic,1199,5,Petrol,8.53
+Tata Tiago NRG,1.2 XT Twin-Cylinder CNG,Hatchback,Manual,1199,5,CNG,8.64
+Tata Tiago NRG,1.2 XZ CNG,Hatchback,Manual,1199,5,CNG,8.88
+Tata Tiago NRG,1.2 XZ Twin-Cylinder CNG,Hatchback,Manual,1199,5,CNG,9.13
+Maruti Suzuki New Grand Vitara,Delta,SUV,Manual,1490,5,Petrol,14.45
+Maruti Suzuki New Grand Vitara,Delta CNG,SUV,Manual,1490,5,CNG,15.54
+Maruti Suzuki New Grand Vitara,Delta AT,SUV,Automatic,1490,5,Petrol,16.18
+Maruti Suzuki New Grand Vitara,Zeta,SUV,Manual,1490,5,Petrol,16.51
+Maruti Suzuki New Grand Vitara,Zeta CNG,SUV,Manual,1490,5,CNG,17.62
+Maruti Suzuki New Grand Vitara,Alpha,SUV,Manual,1490,5,Petrol,18.24
+Maruti Suzuki New Grand Vitara,Zeta AT,SUV,Automatic,1490,5,Petrol,18.24
+Maruti Suzuki New Grand Vitara,Alpha AT,SUV,Automatic,1490,5,Petrol,19.97
+Maruti Suzuki New Grand Vitara,Alpha AWD,SUV,Manual,1490,5,Petrol,19.97
+Maruti Suzuki New Grand Vitara,Zeta Plus CVT,SUV,Automatic,1490,5,Petrol,21.66
+Maruti Suzuki New Grand Vitara,Alpha Plus CVT,SUV,Automatic,1490,5,Petrol,23.38
+Tata Nexon EV Max,XM 3.3 KW,SUV,Automatic,40500,5,Electric,17.33
+Tata Nexon EV Max,XM 7.2 KW FC,SUV,Automatic,40500,5,Electric,17.83
+Tata Nexon EV Max,XZ Plus 3.3 KW,SUV,Automatic,40500,5,Electric,18.35
+Tata Nexon EV Max,XZ Plus 7.2 KW FC,SUV,Automatic,40500,5,Electric,18.94
+Tata Nexon EV Max,XZ Plus Lux 3.3 KW Jet,SUV,Automatic,40500,5,Electric,19.66
+Tata Nexon EV Max,XZ Plus Lux 3.3 KW,SUV,Automatic,40500,5,Electric,19.71
+Tata Nexon EV Max,XZ Plus Lux 3.3 KW Dark Edition,SUV,Automatic,40500,5,Electric,19.96
+Tata Nexon EV Max,XZ Plus Lux 7.2 KW FC Jet,SUV,Automatic,40500,5,Electric,20.18
+Tata Nexon EV Max,XZ Plus Lux 7.2 KW FC,SUV,Automatic,40500,5,Electric,20.22
+Tata Nexon EV Max,XZ Plus Lux 7.2 KW FC Dark Edition,SUV,Automatic,40500,5,Electric,20.48
+Maruti Suzuki Alto K10,LXi,Hatchback,Manual,998,5,Petrol,5.07
+Maruti Suzuki Alto K10,VXi,Hatchback,Manual,998,5,Petrol,5.32
+Maruti Suzuki Alto K10,VXi Plus,Hatchback,Manual,998,5,Petrol,5.63
+Maruti Suzuki Alto K10,VXi AMT,Hatchback,Automatic,998,5,Petrol,6.06
+Maruti Suzuki Alto K10,VXi Plus AMT,Hatchback,Automatic,998,5,Petrol,6.37
+Maruti Suzuki Alto K10,VXi CNG,Hatchback,Manual,998,5,CNG,6.38
+Mahindra Marazzo,M2,MPV/MUV,Manual,1497,5,Diesel,16.14
+Mahindra Marazzo,M4 Plus,MPV/MUV,Manual,1497,5,Diesel,17.59
+Mahindra Marazzo,M4 Plus 8 STR,MPV/MUV,Manual,1497,5,Diesel,17.69
+Mahindra Marazzo,M6 Plus,MPV/MUV,Manual,1497,5,Diesel,18.77
+Mahindra Marazzo,M6 Plus 8 STR,MPV/MUV,Manual,1497,5,Diesel,18.87
+Mahindra Scorpio-N,2.0 Z2 Petrol,SUV,Manual,1997,5,Petrol,15.78
+Mahindra Scorpio-N,2.0 Z2 Petrol (E),SUV,Manual,1997,5,Petrol,16.02
+Mahindra Scorpio-N,2.2 Z2 Diesel,SUV,Manual,1997,5,Diesel,16.89
+Mahindra Scorpio-N,2.2 Z2 Diesel (E),SUV,Manual,1997,5,Diesel,17.12
+Mahindra Scorpio-N,2.0 Z4 Petrol,SUV,Manual,1997,5,Petrol,17.61
+Mahindra Scorpio-N,2.0 Z4 Petrol (E),SUV,Manual,1997,5,Petrol,17.73
+Mahindra Scorpio-N,2.2 Z4 Diesel,SUV,Manual,1997,5,Diesel,18.75
+Mahindra Scorpio-N,2.2 Z4 Diesel (E),SUV,Manual,1997,5,Diesel,18.87
+Mahindra Scorpio-N,2.2 Z6 Diesel,SUV,Manual,1997,5,Diesel,19.84
+Mahindra Scorpio-N,2.0 Z4 AT Petrol,SUV,Automatic,1997,5,Petrol,19.89
+Mahindra Scorpio-N,2.2 Z4 AT Diesel,SUV,Automatic,1997,5,Diesel,21.11
+Mahindra Scorpio-N,2.0 Z8 Petrol,SUV,Manual,1997,5,Petrol,21.44
+Mahindra Scorpio-N,2.2 Z4 4WD Diesel (E),SUV,Manual,1997,5,Diesel,21.71
+Mahindra Scorpio-N,2.2 Z4 4WD Diesel,SUV,Manual,1997,5,Diesel,21.77
+Mahindra Scorpio-N,2.2 Z6 AT Diesel,SUV,Automatic,1997,5,Diesel,22.19
+Mahindra Scorpio-N,2.2 Z8 Diesel,SUV,Manual,1997,5,Diesel,22.75
+Mahindra Scorpio-N,2.0 Z8 AT Petrol,SUV,Automatic,1997,5,Petrol,23.65
+Mahindra Scorpio-N,2.0 Z8L Petrol,SUV,Manual,1997,5,Petrol,23.66
+Mahindra Scorpio-N,2.0 Z8L Petrol 6STR,SUV,Manual,1997,5,Petrol,23.96
+Mahindra Scorpio-N,2.2 Z8L Diesel,SUV,Manual,1997,5,Diesel,25.06
+Mahindra Scorpio-N,2.2 Z8 AT Diesel,SUV,Automatic,1997,5,Diesel,25.08
+Mahindra Scorpio-N,2.2 Z8L Diesel 6STR,SUV,Manual,1997,5,Diesel,25.34
+Mahindra Scorpio-N,2.0 Z8L AT Petrol,SUV,Automatic,1997,5,Petrol,25.59
+Mahindra Scorpio-N,2.2 Z8 4WD Diesel,SUV,Manual,1997,5,Diesel,25.80
+Mahindra Scorpio-N,2.0 Z8L AT Petrol 6STR,SUV,Automatic,1997,5,Petrol,25.83
+Mahindra Scorpio-N,2.2 Z8L AT Diesel,SUV,Automatic,1997,5,Diesel,26.98
+Mahindra Scorpio-N,2.2 Z8L AT Diesel 6STR,SUV,Automatic,1997,5,Diesel,27.16
+Mahindra Scorpio-N,2.2 Z8L 4WD Diesel,SUV,Manual,1997,5,Diesel,27.87
+Mahindra Scorpio-N,2.2 Z8 4WD AT Diesel,SUV,Automatic,1997,5,Diesel,28.09
+Mahindra Scorpio-N,2.2 Z8L 4WD AT Diesel,SUV,Automatic,1997,5,Diesel,29.78
+Mahindra XUV700,2.0 MX,SUV,Manual,2184,5,Petrol,17.18
+Mahindra XUV700,2.0 MX (E),SUV,Manual,2184,5,Petrol,17.73
+Mahindra XUV700,2.2 MX Diesel,SUV,Manual,2184,5,Diesel,18.20
+Mahindra XUV700,2.2 MX Diesel (E),SUV,Manual,2184,5,Diesel,18.86
+Mahindra XUV700,2.0 AX 3,SUV,Manual,2184,5,Petrol,20.02
+Mahindra XUV700,2.0 AX 3 (E),SUV,Manual,2184,5,Petrol,20.59
+Mahindra XUV700,2.2 AX 3 Diesel,SUV,Manual,2184,5,Diesel,21.14
+Mahindra XUV700,2.0 AX 5,SUV,Manual,2184,5,Petrol,21.58
+Mahindra XUV700,2.2 AX 3 Diesel (E),SUV,Manual,2184,5,Diesel,21.73
+Mahindra XUV700,2.0 AX 3 AT,SUV,Automatic,2184,5,Petrol,22.12
+Mahindra XUV700,2.2 AX 3 7 STR Diesel,SUV,Manual,2184,5,Diesel,22.12
+Mahindra XUV700,2.0 AX 5 (E),SUV,Manual,2184,5,Petrol,22.15
+Mahindra XUV700,2.0 AX 5 7 STR,SUV,Manual,2184,5,Petrol,22.35
+Mahindra XUV700,2.2 AX 3 7 STR Diesel (E),SUV,Manual,2184,5,Diesel,22.71
+Mahindra XUV700,2.2 AX 5 Diesel,SUV,Manual,2184,5,Diesel,22.71
+Mahindra XUV700,2.0 AX 5 7 STR (E),SUV,Manual,2184,5,Petrol,22.91
+Mahindra XUV700,2.2 AX 5 7 STR Diesel,SUV,Manual,2184,5,Diesel,23.51
+Mahindra XUV700,2.2 AX 3 AT Diesel,SUV,Automatic,2184,5,Diesel,23.55
+Mahindra XUV700,2.0 AX 5 AT,SUV,Automatic,2184,5,Petrol,23.70
+Mahindra XUV700,2.0 AX 7 7 STR,SUV,Manual,2184,5,Petrol,24.71
+Mahindra XUV700,2.2 AX 5 AT Diesel,SUV,Automatic,2184,5,Diesel,25.18
+Mahindra XUV700,2.2 AX 5 AT 7 STR Diesel,SUV,Automatic,2184,5,Diesel,25.92
+Mahindra XUV700,2.2 AX 7 7 STR Diesel,SUV,Manual,2184,5,Diesel,26.20
+Mahindra XUV700,2.0 AX 7 AT 7 STR,SUV,Automatic,2184,5,Petrol,26.88
+Mahindra XUV700,2.2 AX 7 AT 7 STR Diesel,SUV,Automatic,2184,5,Diesel,28.40
+Mahindra XUV700,2.2 AX 7 Luxury Pack 7 STR Diesel,SUV,Manual,2184,5,Diesel,28.48
+Mahindra XUV700,2.0 AX 7 AT Luxury Pack 7 STR,SUV,Automatic,2184,5,Petrol,29.16
+Mahindra XUV700,2.2 AX 7 AT AWD 7 STR Diesel,SUV,Automatic,2184,5,Diesel,30.08
+Mahindra XUV700,2.2 AX 7 AT Luxury Pack 7 STR Diesel,SUV,Automatic,2184,5,Diesel,30.65
+Mahindra XUV700,2.2 AX 7 AT AWD Luxury Pack 7 STR Diesel,SUV,Automatic,2184,5,Diesel,32.18
+Mahindra XUV300,1.2 W4,SUV,Manual,1197,5,Petrol,9.92
+Mahindra XUV300,1.2 W6 Non Touch Sunroof,SUV,Manual,1197,5,Petrol,11.69
+Mahindra XUV300,1.5 W4,SUV,Manual,1197,5,Diesel,11.76
+Mahindra XUV300,1.2 W6 Sport Turbo GDi Sunroof,SUV,Manual,1197,5,Petrol,12.88
+Mahindra XUV300,1.2 W6 AMT Non Touch Sunroof,SUV,Automatic,1197,5,Petrol,13.04
+Mahindra XUV300,1.5 W6 Non Touch Sunroof,SUV,Manual,1197,5,Diesel,13.55
+Mahindra XUV300,1.2 W8,SUV,Manual,1197,5,Petrol,13.74
+Mahindra XUV300,1.2 W8 Sport Turbo GDi Sunroof,SUV,Manual,1197,5,Petrol,14.40
+Mahindra XUV300,1.5 W6 AMT Non Touch Sunroof,SUV,Automatic,1197,5,Diesel,15.09
+Mahindra XUV300,1.2 W8(O) Sunroof,SUV,Manual,1197,5,Petrol,15.16
+Mahindra XUV300,1.2 W8(O) Sport Turbo GDi Sunroof,SUV,Manual,1197,5,Petrol,15.72
+Mahindra XUV300,1.2 W8(O) AMT Sunroof,SUV,Automatic,1197,5,Petrol,15.78
+Mahindra XUV300,1.5 W8 Sunroof,SUV,Manual,1197,5,Diesel,15.91
+Mahindra XUV300,1.5 W8(O) Sunroof,SUV,Manual,1197,5,Diesel,16.92
+Mahindra XUV300,1.5 W8(O) AMT Sunroof,SUV,Automatic,1197,5,Diesel,17.15
+Toyota Glanza,E,Hatchback,Manual,1197,5,Petrol,7.70
+Toyota Glanza,S,Hatchback,Manual,1197,5,Petrol,8.68
+Toyota Glanza,S AMT,Hatchback,Automatic,1197,5,Petrol,9.28
+Toyota Glanza,S CNG,Hatchback,Manual,1197,5,CNG,9.67
+Toyota Glanza,G,Hatchback,Manual,1197,5,Petrol,9.81
+Toyota Glanza,G AMT,Hatchback,Automatic,1197,5,Petrol,10.42
+Toyota Glanza,G CNG,Hatchback,Manual,1197,5,CNG,10.80
+Toyota Glanza,V,Hatchback,Manual,1197,5,Petrol,10.91
+Toyota Glanza,V AMT,Hatchback,Automatic,1197,5,Petrol,11.21
+Hyundai Tucson,2.0 Platinum AT Petrol,SUV,Automatic,1999,5,Petrol,33.30
+Hyundai Tucson,2.0 Signature AT Petrol,SUV,Automatic,1999,5,Petrol,36.13
+Hyundai Tucson,2.0 Platinum AT Diesel,SUV,Automatic,1999,5,Diesel,36.94
+Hyundai Tucson,2.0 Signature AT Diesel,SUV,Automatic,1999,5,Diesel,40.08
+Hyundai Tucson,2.0 Signature 4WD AT Diesel,SUV,Automatic,1999,5,Diesel,41.86
+Tata Tiago EV,XE Medium,Hatchback,Automatic,19200,5,Electric,9.25
+Tata Tiago EV,XT Medium,Hatchback,Automatic,19200,5,Electric,9.87
+Tata Tiago EV,XT Long,Hatchback,Automatic,19200,5,Electric,10.95
+Tata Tiago EV,XZ Plus Long,Hatchback,Automatic,19200,5,Electric,11.77
+Tata Tiago EV,XZ Plus Long FC,Hatchback,Automatic,19200,5,Electric,12.29
+Tata Tiago EV,XZ Plus Tech LUX Long,Hatchback,Automatic,19200,5,Electric,12.29
+Tata Tiago EV,XZ Plus Tech LUX Long FC,Hatchback,Automatic,19200,5,Electric,12.80
+Tata Tigor EV,XE,Convertible,Automatic,55000,5,Electric,13.17
+Tata Tigor EV,XZ Plus,Convertible,Automatic,55000,5,Electric,14.21
+Tata Tigor EV,XZ Plus LUX,Convertible,Automatic,55000,5,Electric,14.48
+Mahindra XUV400,EC 3.3 KW,SUV,Automatic,39400,5,Electric,17.12
+Mahindra XUV400,EC 7.2 KW FC,SUV,Automatic,39400,5,Electric,17.65
+Mahindra XUV400,EL 7.2 KW FC,SUV,Automatic,39400,5,Electric,20.21
+Mahindra Scorpio Classic,2.2 S 7STR,SUV,Manual,2184,5,Diesel,16.34
+Mahindra Scorpio Classic,2.2 S 9STR,SUV,Manual,2184,5,Diesel,16.66
+Mahindra Scorpio Classic,2.2 S11 7SF/7CC,SUV,Manual,2184,5,Diesel,20.84
+Maruti Suzuki Jimny,Zeta,SUV,Manual,1462,5,Petrol,14.67
+Maruti Suzuki Jimny,Alpha,SUV,Manual,1462,5,Petrol,15.75
+Maruti Suzuki Jimny,Zeta AT,SUV,Automatic,1462,5,Petrol,16.04
+Maruti Suzuki Jimny,Alpha AT,SUV,Automatic,1462,5,Petrol,17.12
+Hyundai Exter,1.2 EX,SUV,Manual,1197,5,Petrol,6.74
+Hyundai Exter,1.2 EX(O),SUV,Manual,1197,5,Petrol,7.20
+Hyundai Exter,1.2 S,SUV,Manual,1197,5,Petrol,8.33
+Hyundai Exter,1.2 S(O),SUV,Manual,1197,5,Petrol,8.49
+Hyundai Exter,1.2 S AMT,SUV,Automatic,1197,5,Petrol,9.10
+Hyundai Exter,1.2 SX,SUV,Manual,1197,5,Petrol,9.13
+Hyundai Exter,1.2 S CNG,SUV,Manual,1197,5,CNG,9.40
+Hyundai Exter,1.2 SX(O),SUV,Manual,1197,5,Petrol,9.85
+Hyundai Exter,1.2 SX AMT,SUV,Automatic,1197,5,Petrol,9.89
+Hyundai Exter,1.2 SX CNG,SUV,Manual,1197,5,CNG,10.21
+Hyundai Exter,1.2 SX(O) AMT,SUV,Automatic,1197,5,Petrol,10.60
+Hyundai Exter,1.2 SX(O) Connect,SUV,Manual,1197,5,Petrol,10.60
+Hyundai Exter,1.2 SX(O) Connect AMT,SUV,Automatic,1197,5,Petrol,11.88
+Tata Harrier,2.0 XE,SUV,Manual,1956,5,Diesel,18.14
+Tata Harrier,2.0 XM,SUV,Manual,1956,5,Diesel,19.82
+Tata Harrier,2.0 XMS,SUV,Manual,1956,5,Diesel,21.26
+Tata Harrier,2.0 XT Plus,SUV,Manual,1956,5,Diesel,22.41
+Tata Harrier,2.0 XMAS,SUV,Automatic,1956,5,Diesel,22.56
+Tata Harrier,2.0 XT Plus Dark,SUV,Manual,1956,5,Diesel,22.83
+Tata Harrier,2.0 XZ,SUV,Manual,1956,5,Diesel,23.08
+Tata Harrier,2.0 XTA Plus,SUV,Automatic,1956,5,Diesel,23.71
+Tata Harrier,2.0 XTA Plus Dark,SUV,Automatic,1956,5,Diesel,24.15
+Tata Harrier,2.0 XZA,SUV,Automatic,1956,5,Diesel,24.39
+Tata Harrier,2.0 XZ Plus,SUV,Manual,1956,5,Diesel,25.42
+Tata Harrier,2.0 XZ Plus Dark,SUV,Manual,1956,5,Diesel,25.89
+Tata Harrier,2.0 XZ Plus Red Dark,SUV,Manual,1956,5,Diesel,26.00
+Tata Harrier,2.0 XZA Plus,SUV,Automatic,1956,5,Diesel,26.80
+Tata Harrier,2.0 XZA Plus Dark,SUV,Automatic,1956,5,Diesel,27.21
+Tata Harrier,2.0 XZA Plus Red Dark,SUV,Automatic,1956,5,Diesel,27.32
+Tata Harrier,2.0 XZA(O) Plus,SUV,Automatic,1956,5,Diesel,27.89
+Tata Harrier,2.0 XZA(O) Plus Dark,SUV,Automatic,1956,5,Diesel,28.35
+Tata Harrier,2.0 XZA(O) Plus Red Dark,SUV,Automatic,1956,5,Diesel,28.46
+Kia Carens,1.5 Premium 7 STR Petrol,SUV,Manual,1493,5,Petrol,12.07
+Kia Carens,1.5 Prestige 7 STR Petrol,SUV,Manual,1493,5,Petrol,13.44
+Kia Carens,1.5 Premium Turbo iMT 7 STR Petrol,SUV,Manual,1493,5,Petrol,13.84
+Kia Carens,1.5 Premium iMT 7 STR Diesel,SUV,Manual,1493,5,Diesel,14.89
+Kia Carens,1.5 Prestige Turbo iMT 7 STR Petrol,SUV,Manual,1493,5,Petrol,15.26
+Kia Carens,1.5 Prestige iMT 7 STR Diesel,SUV,Manual,1493,5,Diesel,16.29
+Kia Carens,1.5 Prestige Plus Turbo iMT 7 STR Petrol,SUV,Manual,1493,5,Petrol,16.96
+Kia Carens,1.5 Prestige Plus iMT 7 STR Diesel,SUV,Manual,1493,5,Diesel,18.03
+Kia Carens,1.5 Prestige Plus Turbo DCT 7 STR Petrol,SUV,Automatic,1493,5,Petrol,18.10
+Kia Carens,1.5 Luxury Turbo iMT 7 STR Petrol,SUV,Manual,1493,5,Petrol,18.61
+Kia Carens,1.5 Luxury iMT 7 STR Diesel,SUV,Manual,1493,5,Diesel,19.71
+Kia Carens,1.5 Luxury Plus Turbo iMT 6 STR Petrol,SUV,Manual,1493,5,Petrol,20.09
+Kia Carens,1.5 Luxury Plus Turbo iMT 7 STR Petrol,SUV,Manual,1493,5,Petrol,20.15
+Kia Carens,1.5 Luxury Plus iMT 7 STR Diesel,SUV,Manual,1493,5,Diesel,21.11
+Kia Carens,1.5 Luxury Plus iMT 6 STR Diesel,SUV,Manual,1493,5,Diesel,21.11
+Kia Carens,1.5 Luxury Plus Turbo DCT 6 STR Petrol,SUV,Automatic,1493,5,Petrol,21.11
+Kia Carens,1.5 Luxury Plus Turbo DCT 7 STR Petrol,SUV,Automatic,1493,5,Petrol,21.17
+Kia Carens,1.5 Luxury Plus AT 6 STR Diesel,SUV,Automatic,1493,5,Diesel,22.15
+Kia Carens,1.5 Luxury Plus AT 7 STR Diesel,SUV,Automatic,1493,5,Diesel,22.21
+MG Hector,1.5 Style,SUV,Manual,1451,5,Petrol,17.24
+MG Hector,1.5 Smart Ex,SUV,Manual,1451,5,Petrol,19.71
+MG Hector,1.5 Smart Pro Ex,SUV,Manual,1451,5,Petrol,20.54
+MG Hector,1.5 Smart Ex CVT,SUV,Automatic,1451,5,Petrol,21.03
+MG Hector,1.5 Smart Pro,SUV,Manual,1451,5,Petrol,21.04
+MG Hector,2.0 Shine Diesel,SUV,Manual,1451,5,Diesel,21.96
+MG Hector,1.5 Sharp Pro Ex,SUV,Manual,1451,5,Petrol,22.19
+MG Hector,1.5 Sharp Pro,SUV,Manual,1451,5,Petrol,22.69
+MG Hector,2.0 Smart Diesel,SUV,Manual,1451,5,Diesel,23.21
+MG Hector,1.5 Sharp Pro Ex CVT,SUV,Automatic,1451,5,Petrol,23.70
+MG Hector,1.5 Sharp Pro CVT,SUV,Automatic,1451,5,Petrol,24.21
+MG Hector,2.0 Smart Pro Diesel,SUV,Manual,1451,5,Diesel,24.41
+MG Hector,1.5 Savvy Pro CVT,SUV,Automatic,1451,5,Petrol,25.30
+MG Hector,2.0 Sharp Pro Diesel,SUV,Manual,1451,5,Diesel,25.60
+MG Gloster,2.0 Super Turbo 7 STR,SUV,Automatic,1996,5,Diesel,38.41
+MG Gloster,2.0 Sharp Turbo 7 STR,SUV,Automatic,1996,5,Diesel,43.87
+MG Gloster,2.0 Savvy Turbo 7 STR,SUV,Automatic,1996,5,Diesel,46.33
+MG Gloster,2.0 Savvy Turbo 6 STR,SUV,Automatic,1996,5,Diesel,46.33
+MG Gloster,2.0 Savvy Twin Turbo 7 STR 4WD,SUV,Automatic,1996,5,Diesel,49.55
+MG Gloster,2.0 Savvy Twin Turbo 6 STR 4WD,SUV,Automatic,1996,5,Diesel,49.55
+Hyundai Verna,1.5 EX,Sedan,Manual,1482,5,Petrol,12.73
+Hyundai Verna,1.5 S,Sedan,Manual,1482,5,Petrol,13.94
+Hyundai Verna,1.5 SX,Sedan,Manual,1482,5,Petrol,15.13
+Hyundai Verna,1.5 SX IVT,Sedan,Automatic,1482,5,Petrol,16.56
+Hyundai Verna,1.5 SX(O),Sedan,Manual,1482,5,Petrol,17.05
+Hyundai Verna,1.5 SX Turbo,Sedan,Manual,1482,5,Petrol,17.25
+Hyundai Verna,1.5 SX(O) Turbo,Sedan,Manual,1482,5,Petrol,18.57
+Hyundai Verna,1.5 SX Turbo DCT,Sedan,Automatic,1482,5,Petrol,18.68
+Hyundai Verna,1.5 SX(O) IVT,Sedan,Automatic,1482,5,Petrol,18.81
+Hyundai Verna,1.5 SX(O) Turbo DCT,Sedan,Automatic,1482,5,Petrol,20.17
+Kia Seltos,1.5 HTE,SUV,Manual,1482,5,Petrol,12.63
+Kia Seltos,1.5 HTK,SUV,Manual,1482,5,Petrol,14.00
+Kia Seltos,1.5 HTE iMT Diesel,SUV,Manual,1482,5,Diesel,14.18
+Kia Seltos,1.5 HTK Plus,SUV,Manual,1482,5,Petrol,15.60
+Kia Seltos,1.5 HTK iMT Diesel,SUV,Manual,1482,5,Diesel,16.05
+Kia Seltos,1.5 HTK Plus iMT GDi,SUV,Manual,1482,5,Petrol,17.31
+Kia Seltos,1.5 HTX,SUV,Manual,1482,5,Petrol,17.54
+Kia Seltos,1.5 HTK Plus iMT Diesel,SUV,Manual,1482,5,Diesel,17.68
+Kia Seltos,1.5 HTX IVT,SUV,Automatic,1482,5,Petrol,19.13
+Kia Seltos,1.5 HTX iMT Diesel,SUV,Manual,1482,5,Diesel,19.67
+Kia Seltos,1.5 HTX Plus iMT GDi,SUV,Manual,1482,5,Petrol,21.07
+Kia Seltos,1.5 HTX AT Diesel,SUV,Automatic,1482,5,Diesel,21.41
+Kia Seltos,1.5 HTX Plus iMT Diesel,SUV,Manual,1482,5,Diesel,21.53
+Kia Seltos,1.5 HTX Plus DCT GDi,SUV,Automatic,1482,5,Petrol,22.10
+Kia Seltos,1.5 GTX Plus DCT GDi,SUV,Automatic,1482,5,Petrol,23.01
+Kia Seltos,1.5 X-Line DCT GDi,SUV,Automatic,1482,5,Petrol,23.01
+Kia Seltos,1.5 GTX Plus AT Diesel,SUV,Automatic,1482,5,Diesel,23.28
+Kia Seltos,1.5 X-Line AT Diesel,SUV,Automatic,1482,5,Diesel,23.51
+MG Astor,1.5 EX Style,SUV,Manual,1349,5,Petrol,12.25
+MG Astor,1.5 Style,SUV,Manual,1349,5,Petrol,12.57
+MG Astor,1.5 EX Super,SUV,Manual,1349,5,Petrol,14.17
+MG Astor,1.5 Super,SUV,Manual,1349,5,Petrol,14.50
+MG Astor,1.5 EX Smart,SUV,Manual,1349,5,Petrol,16.02
+MG Astor,1.5 Super CVT,SUV,Automatic,1349,5,Petrol,16.12
+MG Astor,1.5 Smart,SUV,Manual,1349,5,Petrol,16.43
+MG Astor,1.5 EX Sharp,SUV,Manual,1349,5,Petrol,17.09
+MG Astor,1.5 Sharp,SUV,Manual,1349,5,Petrol,17.50
+MG Astor,1.5 Smart CVT,SUV,Automatic,1349,5,Petrol,17.91
+MG Astor,1.5 Sharp CVT,SUV,Automatic,1349,5,Petrol,18.64
+MG Astor,1.3 Smart Turbo AT,SUV,Automatic,1349,5,Petrol,19.40
+MG Astor,1.5 Savvy CVT,SUV,Automatic,1349,5,Petrol,19.62
+MG Astor,1.5 Savvy Red CVT,SUV,Automatic,1349,5,Petrol,19.73
+MG Astor,1.3 Sharp Turbo AT,SUV,Automatic,1349,5,Petrol,20.44
+MG Astor,1.3 Savvy Turbo Red AT,SUV,Automatic,1349,5,Petrol,21.54
+MG Hector Plus,1.5 Smart,SUV,Manual,1956,5,Petrol,20.64
+MG Hector Plus,1.5 Sharp Pro Ex 6 STR,SUV,Manual,1956,5,Petrol,22.99
+MG Hector Plus,1.5 Sharp Pro,SUV,Manual,1956,5,Petrol,23.33
+MG Hector Plus,2.0 Smart Pro Diesel,SUV,Manual,1956,5,Diesel,23.34
+MG Hector Plus,1.5 Sharp Pro 6 STR,SUV,Manual,1956,5,Petrol,23.49
+MG Hector Plus,1.5 Sharp Pro Ex CVT 6 STR,SUV,Automatic,1956,5,Petrol,24.49
+MG Hector Plus,1.5 Sharp Pro CVT,SUV,Automatic,1956,5,Petrol,24.83
+MG Hector Plus,1.5 Sharp Pro CVT 6 STR,SUV,Automatic,1956,5,Petrol,25.01
+MG Hector Plus,2.0 Smart Pro Diesel 6 STR,SUV,Manual,1956,5,Diesel,25.24
+MG Hector Plus,1.5 Savvy Pro CVT,SUV,Automatic,1956,5,Petrol,25.91
+MG Hector Plus,1.5 Savvy Pro CVT 6 STR,SUV,Automatic,1956,5,Petrol,26.08
+MG Hector Plus,2.0 Sharp Pro Diesel,SUV,Manual,1956,5,Diesel,26.41
+MG Hector Plus,2.0 Sharp Pro Diesel 6 STR,SUV,Manual,1956,5,Diesel,26.42
+MG ZS EV,Excite,SUV,Automatic,50300,5,Electric,24.57
+MG ZS EV,Exclusive,SUV,Automatic,50300,5,Electric,28.62
+MG ZS EV,Exclusive Ivory,SUV,Automatic,50300,5,Electric,28.72
+Skoda Kushaq,1.0 Active,SUV,Manual,999,5,Petrol,13.60
+Skoda Kushaq,1.0 ONYX Edition,SUV,Manual,999,5,Petrol,14.25
+Skoda Kushaq,1.0 Ambition Classic,SUV,Manual,999,5,Petrol,14.99
+Skoda Kushaq,1.0 Ambition,SUV,Manual,999,5,Petrol,15.40
+Skoda Kushaq,1.0 Ambition Classic AT,SUV,Automatic,999,5,Petrol,16.95
+Skoda Kushaq,1.5 Ambition,SUV,Manual,999,5,Petrol,17.36
+Skoda Kushaq,1.0 Ambition AT,SUV,Automatic,999,5,Petrol,17.45
+Skoda Kushaq,1.0 Style (Non-Sunroof),SUV,Manual,999,5,Petrol,17.96
+Skoda Kushaq,1.0 Style,SUV,Manual,999,5,Petrol,18.26
+Skoda Kushaq,1.0 Monte Carlo,SUV,Manual,999,5,Petrol,19.36
+Skoda Kushaq,1.5 Ambition DSG,SUV,Automatic,999,5,Petrol,19.43
+Skoda Kushaq,1.0 Style AT (6 Airbags),SUV,Automatic,999,5,Petrol,20.02
+Skoda Kushaq,1.5 Style,SUV,Manual,999,5,Petrol,20.66
+Skoda Kushaq,1.0 Monte Carlo AT,SUV,Automatic,999,5,Petrol,21.07
+Skoda Kushaq,1.5 Monte Carlo,SUV,Manual,999,5,Petrol,21.76
+Skoda Kushaq,1.5 Style DSG (6 Airbags),SUV,Automatic,999,5,Petrol,22.07
+Skoda Kushaq,1.5 Monte Carlo DSG,SUV,Automatic,999,5,Petrol,23.16
+Kia Sonet,1.2 HTE,SUV,Manual,1493,5,Petrol,8.75
+Kia Sonet,1.2 HTK,SUV,Manual,1493,5,Petrol,9.75
+Kia Sonet,1.2 HTK Plus,SUV,Manual,1493,5,Petrol,10.78
+Kia Sonet,1.5 HTE iMT Diesel,SUV,Manual,1493,5,Diesel,11.42
+Kia Sonet,1.0 HTK Plus iMT,SUV,Manual,1493,5,Petrol,12.07
+Kia Sonet,1.5 HTK iMT Diesel,SUV,Manual,1493,5,Diesel,12.63
+Kia Sonet,1.0 HTX iMT,SUV,Manual,1493,5,Petrol,13.16
+Kia Sonet,1.5 HTK Plus iMT Diesel,SUV,Manual,1493,5,Diesel,13.44
+Kia Sonet,1.0 HTX DCT,SUV,Automatic,1493,5,Petrol,13.77
+Kia Sonet,1.5 HTX iMT Diesel,SUV,Manual,1493,5,Diesel,14.44
+Kia Sonet,1.0 HTX Plus iMT,SUV,Manual,1493,5,Petrol,14.64
+Kia Sonet,1.0 GTX Plus iMT,SUV,Manual,1493,5,Petrol,15.02
+Kia Sonet,1.5 HTX AT Diesel,SUV,Automatic,1493,5,Diesel,15.37
+Kia Sonet,1.0 GTX Plus DCT,SUV,Automatic,1493,5,Petrol,15.71
+Kia Sonet,1.0 X Line DCT,SUV,Automatic,1493,5,Petrol,15.93
+Kia Sonet,1.5 HTX Plus iMT Diesel,SUV,Manual,1493,5,Diesel,15.95
+Kia Sonet,1.5 GTX Plus iMT Diesel,SUV,Manual,1493,5,Diesel,16.35
+Kia Sonet,1.5 GTX Plus AT Diesel,SUV,Automatic,1493,5,Diesel,17.28
+Kia Sonet,1.5 X Line AT Diesel,SUV,Automatic,1493,5,Diesel,17.51
+Skoda Slavia,1.0 Active,Sedan,Manual,999,5,Petrol,13.08
+Skoda Slavia,1.0 Ambition,Sedan,Manual,999,5,Petrol,15.15
+Skoda Slavia,1.0 Style(Non-Sunroof),Sedan,Manual,999,5,Petrol,16.43
+Skoda Slavia,1.0 Ambition AT,Sedan,Automatic,999,5,Petrol,16.64
+Skoda Slavia,1.0 Style(Non-Sunroof) Lava Blue Edition,Sedan,Manual,999,5,Petrol,16.95
+Skoda Slavia,1.0 Style,Sedan,Manual,999,5,Petrol,17.00
+Skoda Slavia,1.5 Ambition,Sedan,Manual,999,5,Petrol,17.24
+Skoda Slavia,1.0 Style Lava Blue Edition,Sedan,Manual,999,5,Petrol,17.51
+Skoda Slavia,1.0 Style AT,Sedan,Automatic,999,5,Petrol,18.39
+Skoda Slavia,1.5 Ambition DSG,Sedan,Automatic,999,5,Petrol,18.76
+Skoda Slavia,1.0 Style AT Lava Blue Edition,Sedan,Automatic,999,5,Petrol,18.90
+Skoda Slavia,1.5 Style,Sedan,Manual,999,5,Petrol,19.63
+Skoda Slavia,1.5 Style Lava Blue Edition,Sedan,Manual,999,5,Petrol,20.11
+Skoda Slavia,1.5 Style DSG,Sedan,Automatic,999,5,Petrol,21.27
+Skoda Slavia,1.5 Style DSG Lava Blue Edition,Sedan,Automatic,999,5,Petrol,21.73
